@@ -54,3 +54,4 @@ When the time comes to start our course, just go to your command line, and run:
 ```bash
 jupyter notebook
 ```
+I will walk you through the remaining steps during the Meetup.
