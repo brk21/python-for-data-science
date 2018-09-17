@@ -31,18 +31,18 @@ A virtual environment is just a walled garden for your Python so that none of th
 
 Now, activate your environment:
 
-```python
+```bash
 conda activate data_science1
 ```
 
 All of the Data Science Meetups I run will use Jupyter Notebooks to make it easy to play around with your code.
 To install jupyter notebooks and add your new python kernel to the options for those jupyter notebooks, run the code below.
-```python
+```bash
 pip install jupyter notebook
 python -m ipykernel install --user --name data_science1 --display-name "Python 3.6 (data_science1)"
 ```
 Install the additional packages needed for this tutorial. Please note that the `-y` just prevents Anaconda from asking you to confirm.
-```python
+```bash
 conda install -y requests
 conda install -y pandas
 conda install -y pymysql
