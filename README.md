@@ -18,16 +18,17 @@ https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-pyt
 https://pythonforundergradengineers.com/installing-anaconda-on-windows.html
 
 ## Meetup 1: Manipulating Data and Working with APIs
-If you have Anaconda, start by creating a virtual environment for this tutorial. 
+We'll be working in Jupyter Notebooks with the Quandl API. Please sign up for a *free* API Key at https://www.quandl.com/
 
-I have named my environment `data_science1`, but you can name it whatever you want. Just be sure to keep it working below.
+If you have Anaconda, start by creating a virtual environment for this Meetup. 
+A virtual environment is just a walled garden for your Python so that none of the packages you install conflict with each other.
+
+I have named my environment `data_science1`, but you can name it whatever you want. Just be sure to use the same name in the code below each time.
 
 ```bash
 conda create --name data_science1 python=3.6
 ```
 Then type `y` and `enter`
-
-A virtual environment is just a walled garden for your Python so that none of the packages you install conflict with each other.
 
 Now, activate your environment:
 
