@@ -49,6 +49,8 @@ conda install -y pymysql
 conda install -y ggplot
 conda install -y sqlalchemy
 ```
+You can run the following to deactivate your Anaconda virtual environment: `source deactivate`
+
 That should do it!
 When the time comes to start our course, just go to your command line, and run:
 ```bash
