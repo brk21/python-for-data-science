@@ -27,7 +27,7 @@ https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-pyt
 #### Windows
 https://pythonforundergradengineers.com/installing-anaconda-on-windows.html
 
-## Meetup 1: Manipulating Data with Pandas + SQL and Working with APIs in Python
+## Meetup 1: Manipulating Data with Pandas + SQL and Working with REST APIs in Python
 We'll be working in Jupyter Notebooks with the Quandl API. Please sign up for a *free* API Key at https://www.quandl.com/
 
 If you have Anaconda, start by creating a virtual environment for this Meetup. 
