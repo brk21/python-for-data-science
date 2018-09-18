@@ -28,7 +28,7 @@ I have named my environment `data_science1`, but you can name it whatever you wa
 ```bash
 conda create --name data_science1 python=3.6
 ```
-Then type `y` and `enter`
+Then type `y` and press return/enter
 
 Now, activate your environment:
 
