@@ -16,9 +16,10 @@ Students: https://aws.amazon.com/education/awseducate/
 
 It can take up to 24-hours for your account to be fully setup. If you are a student, you can get free credits by signing up through the AWS Educate link above. You will save time if you sign up ahead of time.
 
-In our first Meetup, we will use AWS to create a free MySQL database that we will use for testing.  In later meetups, we will also utilize free EC2 cloud instances to do modeling and data processing exercises in the cloud (as most people do in the real world). We may also explore Google Cloud
+In our first Meetup, we will use AWS to create a free MySQL database that we will use for testing.  In later meetups, we will also utilize free EC2 cloud instances to do modeling and data processing exercises in the cloud (as most people do in the real world). We may also explore Google Cloud for Machine Learning Pipelines.
 
 ### OPTIONAL: If you're a beginner, I recommend starting with an Anaconda installation.
+Please utilize the links below depending on your operating system.
 #### MacOS
 https://www.datacamp.com/community/tutorials/installing-anaconda-mac-os-x
 #### Linux
