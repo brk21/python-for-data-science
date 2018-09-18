@@ -4,12 +4,19 @@ Python for Data Science Tutorials used at Meetups in Iowa City
 Welcome to my github repo! This is where all of the IPython Notebooks and datasets we use in Data Science Meetups will be housed. Please feel free to email me questions or comments to ross [at] coconicdata.com!
 
 ## Prerequisites
-#### Please have Python installed on your computer.
+#### 1) Please have Python installed on your computer.
 We will be using Python 3 in this course, so I recommend you work in Python 3 as well. (3.5 or 3.6 are both fine)
 
-Bonus points if you can work with virtual environments in Python (Anaconda makes this very easy, see below).
+Bonus points if you can work with virtual environments in Python (For beginners, Anaconda makes this very easy, please see below).
 
-#### If you're a beginner, I recommend starting with an Anaconda installation.
+#### 2) Please sign up for an AWS account at aws.amazon.com
+Non-students: https://portal.aws.amazon.com/billing/signup#/start
+Students: https://aws.amazon.com/education/awseducate/
+It can take up to 24-hours for your account to be fully setup. If you are a student, you can get free credits by signing up through the AWS Educate link above. You will save time if you sign up ahead of time.
+
+In our first Meetup, we will use AWS to create a free MySQL database that we will use for testing.  In later meetups, we will also utilize free EC2 cloud instances to do modeling and data processing exercises in the cloud (as most people do in the real world). We may also explore Google Cloud
+
+#### OPTIONAL: If you're a beginner, I recommend starting with an Anaconda installation.
 ### MacOS
 https://www.datacamp.com/community/tutorials/installing-anaconda-mac-os-x
 ### Linux
