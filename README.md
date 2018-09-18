@@ -35,24 +35,26 @@ A virtual environment is just a walled garden for your Python so that none of th
 
 I have named my environment `data_science1`, but you can name it whatever you want. Just be sure to use the same name in the code below each time.
 
+On the command line:
+
 ```bash
 conda create --name data_science1 python=3.6
 ```
 Then type `y` and press return/enter
 
-Now, activate your environment:
+Now, activate your environment (also command line):
 
 ```bash
 conda activate data_science1
 ```
 
 All of the Data Science Meetups I run will use Jupyter Notebooks to make it easy to play around with your code.
-To install jupyter notebooks and add your new python kernel to the options for those jupyter notebooks, run the code below.
+To install jupyter notebooks and add your new python kernel to the options for those jupyter notebooks, run the code below on your command line.
 ```bash
 pip install jupyter notebook
 python -m ipykernel install --user --name data_science1 --display-name "Python 3.6 (data_science1)"
 ```
-Install the additional packages needed for this tutorial. Please note that the `-y` just prevents Anaconda from asking you to confirm.
+Install the additional packages needed for this meetup via the command line. Please note that the `-y` just prevents Anaconda from asking you to confirm.
 ```bash
 conda install -y requests
 conda install -y pandas
@@ -60,7 +62,7 @@ conda install -y pymysql
 conda install -y ggplot
 conda install -y sqlalchemy
 ```
-You can run the following to deactivate your Anaconda virtual environment: `source deactivate`
+You can run the following on the command line to deactivate your Anaconda virtual environment: `source deactivate`
 
 That should do it!
 When the time comes to start our journey, just go to your command line, and run:
