@@ -45,7 +45,7 @@ Then type `y` and press return/enter
 Now, activate your environment (also command line):
 
 ```bash
-conda activate data_science1
+source activate data_science1
 ```
 
 All of the Data Science Meetups I run will use Jupyter Notebooks to make it easy to play around with your code.
